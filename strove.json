@@ -1,0 +1,6 @@
+{
+  "envVariables": [
+    ["CODEROAD_DISPLAY_RUN_TEST_BUTTON", "true"],
+    ["CODEROAD_TUTORIAL_URL", "https://raw.githubusercontent.com/beaucarnes/c-py/master/tutorial.json"]
+  ]
+}
